@@ -1,0 +1,6 @@
+{
+    "user": "MY_USER",
+    "account": "[Account]",
+    "url": "https://[Account]snowflakecomputing.com:443",
+    "private_key": "-----BEGIN PRIVATE KEY-----\n-----END PRIVATE KEY-----"
+  }
